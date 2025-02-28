@@ -6,12 +6,20 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the act of designing and building softwares.
+
+It is important in creating apps and websites tailored to solve real world problems 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Planning
+2. Designing
+3. Developing
+4. Testing
+5. Deployment
+6. Maintenance 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -33,5 +41,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Promt engineering is the process of providing data and instructions to AI in order to receive results from AI
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+write an essay about cats - vague.
+
+write an essay about cats, the popular species that exist, their feeding patterns and benefits of having a cat in a house hold.
